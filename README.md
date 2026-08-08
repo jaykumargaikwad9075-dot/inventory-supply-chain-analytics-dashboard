@@ -16,5 +16,13 @@ Built an interactive Power BI dashboard for inventory and supply-chain analysis 
 - Supplier analysis
 - Location-wise stock analysis
 
-## Dashboard
-![Dashboard](dashboard.png)
+## Dashboards
+
+### Dashboard 1 – Inventory Analysis
+![Dashboard 1](dash1.png)
+
+### Dashboard 2 – Supply Chain Analysis
+![Dashboard 2](dash2.png)
+
+### Dashboard 3 – Location & Product Analysis
+![Dashboard 3](dash3.png)
